@@ -1,6 +1,5 @@
 Hi, I’m @clotpoledollophead
-- I'm currently learning C and self-learning Python
-- I'm looking forward to learn R in the future
+- I'm currently working on a data visualization project for *House of the Dragon*.
 
 <!---
 clotpoledollophead/clotpoledollophead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
